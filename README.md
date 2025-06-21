@@ -3,6 +3,8 @@
 ## Short Description of the project 
 Have you had a mini heart attack searching for your phone? It's a moment we all laugh about. But imagine if most of your memories and sense of self were fading away. Watching our aging parents struggle to find things, especially while living abroad, leaves me feeling helpless. I aim to create assistive technology that empowers our parents and grandparents to live more independently.
 
+youtube link : https://www.youtube.com/watch?v=tJoP7UvJijA
+
 ## Technical Overview
 
 Aging parents and grandparents often struggle with memory lapses, making it challenging to locate everyday items like keys, glasses, or pens. For their children, especially those living abroad, these struggles can evoke feelings of helplessness. This project addresses this issue with an AI-powered assistive application that uses Gemma models to analyze video data and answer natural language queries like "Where did I last see my keys?".
